@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "0c7891081a62c2d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3580d34a335b561",
+        "type": "leaf",
+        "dimension": 49.55128205128205,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "webcomponents/cusModalLogin3/cusModalLogin.js.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "64ddee112b0ab655",
+        "type": "leaf",
+        "dimension": 50.44871794871795,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be5cb51b63b6ef82",
+    "type": "split",
+    "children": [
+      {
+        "id": "586eea05a21f5814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e44d044f0b42a4b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1fbdc58cd65b051",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db9d62278b6fcb11",
+    "type": "split",
+    "children": [
+      {
+        "id": "053145c708513d0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7586b10eaba4f44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "webcomponents/cusModalLogin3/cusModalLogin.js.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "webcomponents/cusModalLogin3/cusModalLogin.js.md",
+    "webcomponents/cusModalLogin3/cusModalLogin.htm.md",
+    "js/firebase/firebase-FirebaseMJS.js.md",
+    "webcomponents/cusFullPageScroll/fullPageScroll.js.md",
+    "webcomponents/cusFullPageScroll/fullPageScroll.htm.md",
+    "Untitled.md",
+    "pages/index/pages-index.js.md",
+    "pages/index/pages-index.htm.md",
+    "js/react/reducers/shopCart.spec.js.md",
+    "pages/index/pages-indexESM.js.md"
+  ]
+}
